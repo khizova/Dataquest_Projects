@@ -1,4 +1,4 @@
-# Dataquest_Projects
+# Dataquest Projects
 
 - [Profit making Apps (App Store and Google Play Markets)](https://github.com/khizova/Dataquest_Projects/blob/main/Projects/Profit%20making%20Apps%20(App%20Store%20and%20Google%20Play%20Markets).ipynb): Data cleaning, data analysis | <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height = "15" />
 - [Exploring Hacker News Posts](https://github.com/khizova/Dataquest_Projects/blob/main/Projects/Exploring%20Hacker%20News%20Posts.ipynb): For loops, dates and times | <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height = "15" />
