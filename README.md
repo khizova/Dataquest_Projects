@@ -1,6 +1,6 @@
 # Dataquest Projects
 
-[Dataquest](https://www.dataquest.io/) offers online project-based data science courses. I am currently enrolled in a learning path __Data Scientist in Python__ that covers different topics including _data cleaning, data analysis, data visualization, probability, statistics or machine learning_. Below you can find a list of my already completed projects.
+[Dataquest](https://www.dataquest.io/) offers online project-based data science courses. I was enrolled in a learning path __Data Scientist in Python__ that covers different topics including _data cleaning, data analysis, data visualization, probability, statistics or machine learning_. Below you can find selected projects.
 
 ---
 
